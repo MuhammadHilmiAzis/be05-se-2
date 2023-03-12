@@ -1,0 +1,14 @@
+Nama : Muhammad Hilmi Azis
+URL Github : https://github.com/MuhammadHilmiAzis/be05-se-2
+
+Algoritma makan roti panggangan, roti didapur, dan saya di kamar
+1.Mulai
+2.keluar dari kamar terlebih  dahulu
+3.Mengambil roti dan selai pada roti
+4. Jika roti tersedia, maka
+5. Siapkan Rotinya
+6. Siapkan alat panggang
+7. Panggang roti
+8. Sajikan roti panggang
+9. Roti siap di makan
+10.Selesai
